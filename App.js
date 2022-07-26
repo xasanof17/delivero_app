@@ -1,11 +1,8 @@
-import { StatusBar } from 'expo-status-bar';
-import { Text, View } from 'react-native';
 import { TailwindProvider } from 'tailwindcss-react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { Home } from './screens';
 
-// https://www.youtube.com/watch?v=taPz40VmyzQ&t=126s
 const Stack = createNativeStackNavigator();
 
 export default function App() {
