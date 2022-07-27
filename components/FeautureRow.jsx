@@ -20,10 +20,10 @@ const FeautureRow = ({ id, title, description, featuredCategory }) => {
             {/* RestarauntsCards... */}
             <RestarauntsCard
                id={1}
-               imgUrl='https://links.papareact.com/gn7'
-               title='Yo! Qale Chiqibdi ustoz'
-               rating={4.5}
-               genre='Japanese'
+               imgUrl='https://www.thespruceeats.com/thmb/hl4lkmdLO7tj1eDCsGbakfk97Co=/3088x2055/filters:fill(auto,1)/marinated-top-round-steak-3060302-hero-02-ed071d5d7e584bea82857112aa734a94.jpg'
+               title='Steak'
+               rating={4.2}
+               genre='Italian'
                address='123 Main St'
                short_description='This is a Testing description'
                dishes={[]}
@@ -32,10 +32,10 @@ const FeautureRow = ({ id, title, description, featuredCategory }) => {
             />
             <RestarauntsCard
                id={1}
-               imgUrl='https://links.papareact.com/gn7'
-               title='Yo! Sushi'
-               rating={4.5}
-               genre='Japanese'
+               imgUrl='https://www.justonecookbook.com/wp-content/uploads/2020/11/Kenchinjiru-1006-I.jpg'
+               title='Kenchinjiru'
+               rating={4.0}
+               genre='Chinese'
                address='123 Main St'
                short_description='This is a Testing description'
                dishes={[]}
@@ -44,10 +44,10 @@ const FeautureRow = ({ id, title, description, featuredCategory }) => {
             />
             <RestarauntsCard
                id={1}
-               imgUrl='https://links.papareact.com/gn7'
-               title='Yo! Sushi'
-               rating={4.5}
-               genre='Japanese'
+               imgUrl='https://www.m24.ru/b/d/nBkSUhL2hFAvnsm_Lr6BvMKnxdDs9Zu-yyqYy7jLs2KQeXqLBmmcmzZh59JUtRPBsdaJqSfJd54qEr7t1mNwKSGK7WY=dY4Ivvx8xVWhDNgRip2AgA.jpg'
+               title='Burger'
+               rating={3.5}
+               genre='Usa'
                address='123 Main St'
                short_description='This is a Testing description'
                dishes={[]}

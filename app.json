@@ -2,6 +2,7 @@
   "expo": {
     "name": "delivero",
     "slug": "delivero",
+    "owner": "xasanof17",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,7 +25,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.xasanof17.delivero"
     },
     "web": {
       "favicon": "./assets/favicon.png"
